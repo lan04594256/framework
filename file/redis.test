@@ -1,0 +1,25 @@
+参考链接地址：
+
+官网地址：https://redisdesktop.com/download
+
+官网github地址：https://github.com/uglide/RedisDesktopManager/releases
+
+第一步：
+    配置maven
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-redis</artifactId>
+    </dependency
+第二部：
+    配置文件配置：
+    #=============== 库存缓存reids配置 ==========================
+    storage.redis.database = 15
+    storage.redis.host = 192.168.0.251
+    storage.redis.password = 12345678
+    storage.redis.port = 6379
+    storage.redis.timeout = 3000
+    storage.redis.jedis.pool.max-active = 8
+    storage.redis.jedis.pool.max-wait = -1
+    storage.redis.jedis.pool.max-idle = 10
+    storage.redis.jedis.pool.min-idle = 0
+    storage.redis.lettuce.shutdown-timeout = 0

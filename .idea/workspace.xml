@@ -4,138 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/common/src/main/resources/application.properties" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab174c01-9ba1-4c60-b9dc-46d48b8ebfc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_1_tmp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_1_tmp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_1_tmp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_1_tmp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_1_tmp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_19_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/BizException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/CommonConstans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/CommonException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/UserUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/BasisInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/DbColumnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/EntityInfoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/FreemarkerUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/IColumnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/ITypeConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/MySqlToJavaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/MySqlTypeConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/PropertyInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/YdshCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/enmu/DateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/JsonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/PageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/ResultJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/SystemException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/TokenProccessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/view/interceptor/HeaderTokenInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/view/interceptor/MyInterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/view/login/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/controller/base/AbstractController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/CbUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/HelloWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/bootstrap-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/AbstractController.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/SwaggerConfig.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/controller.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/dao.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/entity.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/mapper.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/service.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/freemarker/ftl/serviceImpl.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/test/java/com/lwl/common/RdisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/test/java/com/lwl/common/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/maven.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/mybatis搭建.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/redis.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/项目说明.text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/CommonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/CommonApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="ab174c01-9ba1-4c60-b9dc-46d48b8ebfc3" name="Default Changelist" comment="初始化">
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/PublicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/TestC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/RSACoder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -152,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisConfig.java">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/RSACoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+            <state relative-caret-position="122">
+              <caret line="183" column="76" selection-start-line="183" selection-start-column="76" selection-end-line="183" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,60 +36,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/maven.text">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/CommonApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="189">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisUtil.java">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/PublicQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="64" />
+            <state relative-caret-position="273">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/test/java/com/lwl/common/SampleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/test/java/com/lwl/common/CommonApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="10" column="5" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/pom.xml">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/TestC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="56" column="21" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="-783">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#1157#1158#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+                <element signature="e#1479#1480#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
+                <element signature="e#1802#1803#0" expanded="true" />
+                <element signature="e#1836#1837#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/jdk/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="1339" column="38" selection-start-line="1339" selection-start-column="25" selection-end-line="1339" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -232,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/FreemarkerUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="432">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -244,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.28/freemarker-2.3.28-sources.jar!/freemarker/template/Configuration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="1431">
               <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
             </state>
           </provider>
@@ -264,8 +142,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>CustomerAccountController</find>
-      <find>实名认证信息获取失败</find>
       <find>mysql</find>
       <find>actuator</find>
       <find>realNameAuth</find>
@@ -294,6 +170,8 @@
       <find>abstractControllerUrl</find>
       <find>SystemException</find>
       <find>FreemarkerUtil</find>
+      <find>storage.redis.database</find>
+      <find>KEY_ALGORITHM</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -306,10 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/HelloWord.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/User.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/test/SampleTest.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/common/src/main/resources/mapper/HelloWordMapper.xml" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/mapper/HelloWordMapper.java" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/service/HelloWordService.java" />
@@ -350,13 +224,17 @@
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/generator/YdshCodeGenerator.java" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/YdshCodeGenerator.java" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/MybatisPlusConfig.java" />
-        <option value="$PROJECT_DIR$/common/pom.xml" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisUtil.java" />
         <option value="$PROJECT_DIR$/file/redis.test" />
         <option value="$PROJECT_DIR$/common/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/common/src/test/java/com/lwl/common/RdisTest.java" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisConfig.java" />
         <option value="$PROJECT_DIR$/file/maven.text" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/RsaTest.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/RSACoder.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/PublicQueue.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/TestC.java" />
       </list>
     </option>
   </component>
@@ -370,23 +248,26 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="framework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="461" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="349" />
+    <option name="y" value="60" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -427,6 +308,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -436,6 +338,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -446,7 +350,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -457,30 +387,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="generator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="enmu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -490,66 +398,11 @@
               <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lwl" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.freemarker:freemarker:2.3.28" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.freemarker:freemarker:2.3.28" type="70bed36:NamedLibraryElementNode" />
-              <item name="freemarker-2.3.28.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.freemarker:freemarker:2.3.28" type="70bed36:NamedLibraryElementNode" />
-              <item name="freemarker-2.3.28.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="freemarker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.freemarker:freemarker:2.3.28" type="70bed36:NamedLibraryElementNode" />
-              <item name="freemarker-2.3.28.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="freemarker" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
@@ -569,6 +422,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -592,7 +447,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -628,13 +483,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RedisConfig">
-    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lwl.common.common.dao.CodeGenerator" />
+  <component name="RunManager" selected="Application.TestC">
+    <configuration name="PublicQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lwl.common.common.design.PublicQueue" />
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lwl.common.common.dao.generator.*" />
+          <option name="PATTERN" value="com.lwl.common.common.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSACoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lwl.common.common.utils.RSACoder" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lwl.common.common.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -655,12 +523,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YdshCodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lwl.common.common.dao.generator.YdshCodeGenerator" />
+    <configuration name="TestC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lwl.common.common.design.TestC" />
       <module name="common" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lwl.common.common.dao.generator.*" />
+          <option name="PATTERN" value="com.lwl.common.common.design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -679,22 +547,6 @@
       <option name="PACKAGE_NAME" value="com.lwl.common" />
       <option name="MAIN_CLASS_NAME" value="com.lwl.common.RdisTest" />
       <option name="METHOD_NAME" value="saveRdisTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SampleTest.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="common" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lwl.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lwl.common" />
-      <option name="MAIN_CLASS_NAME" value="com.lwl.common.SampleTest" />
-      <option name="METHOD_NAME" value="testSelect" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -726,11 +578,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestC" />
+        <item itemvalue="Application.PublicQueue" />
+        <item itemvalue="Application.RSACoder" />
         <item itemvalue="Application.RedisConfig" />
         <item itemvalue="JUnit.RdisTest.saveRdisTest" />
-        <item itemvalue="Application.YdshCodeGenerator" />
-        <item itemvalue="Application.CodeGenerator" />
-        <item itemvalue="JUnit.SampleTest.testSelect" />
       </list>
     </recent_temporary>
   </component>
@@ -753,6 +605,15 @@
       <workItem from="1589967474250" duration="1290000" />
       <workItem from="1590023860356" duration="8797000" />
       <workItem from="1590112529999" duration="5695000" />
+      <workItem from="1590368848884" duration="4438000" />
+      <workItem from="1590454494651" duration="1360000" />
+      <workItem from="1590540688325" duration="4164000" />
+      <workItem from="1590627311158" duration="598000" />
+      <workItem from="1590653862911" duration="598000" />
+      <workItem from="1590667167635" duration="391000" />
+      <workItem from="1590713179791" duration="699000" />
+      <workItem from="1590725977520" duration="15000" />
+      <workItem from="1591677652417" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1589535596671</created>
@@ -761,7 +622,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589535596671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化">
+      <created>1590368901602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590368901603</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -788,14 +656,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64980000" />
+    <option name="totallyTimeSpent" value="80533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8028169" visible="true" weight="0.24147122" />
-      <window_info id="Structure" order="1" sideWeight="0.1971831" side_tool="true" visible="true" weight="0.24147122" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7980614" visible="true" weight="0.26119402" />
+      <window_info id="Structure" order="1" sideWeight="0.20193861" side_tool="true" visible="true" weight="0.26119402" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -804,25 +672,25 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.48212352" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3336945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5200433" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.35427952" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.32936078" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.2611051" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4989339" weight="0.2611051" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.06769723" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.18869936" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -845,76 +713,22 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/PublicQueue.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/PublicQueue.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/EwNailConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/entity/DbColumn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/service/DbDatabaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/Const.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/JsonResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/controller/DbDatabaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.16/druid-1.1.16-sources.jar!/com/alibaba/druid/wall/violation/ErrorCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/PageParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/entity/ErrorCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/service/HelloWordService.java" />
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/service/impl/HelloWordServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/SystemException.java" />
@@ -1075,13 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/CommonApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisConfig.kt" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1111,13 +918,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/test/java/com/lwl/common/RdisTest.java">
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        <state relative-caret-position="3429">
+          <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/maven.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -1145,29 +959,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/common/src/test/java/com/lwl/common/RdisTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/redis/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/maven.text">
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/RsaTest.java" />
+    <entry file="file://$PROJECT_DIR$/common/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar://D:/jdk/jdk1.8/src.zip!/java/security/KeyPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+          <folding>
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1470#1471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/resources/bootstrap-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/MySqlToJavaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1176,27 +1008,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.28/freemarker-2.3.28-sources.jar!/freemarker/template/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/dao/generator/FreemarkerUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="432">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.28/freemarker-2.3.28-sources.jar!/freemarker/template/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="56" column="21" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="1431">
+          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/utils/RSACoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="183" column="76" selection-start-line="183" selection-start-column="76" selection-end-line="183" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/CommonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1339" column="38" selection-start-line="1339" selection-start-column="25" selection-end-line="1339" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/jdk1.8/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+          <folding>
+            <element signature="e#9899#9900#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/PublicQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/lwl/common/common/design/TestC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1836#1837#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
